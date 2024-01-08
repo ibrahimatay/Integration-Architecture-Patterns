@@ -7,3 +7,5 @@ This repository serves as a comprehensive resource for architectural templates a
 - **Sample Integrations**: Real-world integration examples built using the powerful features of Apache Kafka. Each example addresses a specific scenario, showcasing the advantages and solutions tailored to that scenario.
 - **Documentation**: Detailed documentation for each integration example, including step-by-step instructions and best practices. These documents serve as a guide for developers looking to understand and implement integrations.
 
+## Notes
+- [Apache Kafka - Confluence](https://cwiki.apache.org/confluence/display/KAFKA/Index)
