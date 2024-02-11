@@ -15,3 +15,8 @@ This repository serves as a comprehensive resource for architectural templates a
 
 ## Notes
 - [Apache Kafka - Confluence](https://cwiki.apache.org/confluence/display/KAFKA/Index)
+
+# Youtube
+
+- [Kafka Interview Questions](https://www.youtube.com/playlist?list=PL-y1MOZsKvhIhFdM4dF7hWEltXZixnMZD)
+- [Kafka's Internal](https://www.youtube.com/playlist?list=PLa7VYi0yPIH14oEOfwbcE9_gM5lOZ4ICN)
