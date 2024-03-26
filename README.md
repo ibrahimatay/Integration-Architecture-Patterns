@@ -16,7 +16,13 @@ This repository serves as a comprehensive resource for architectural templates a
 ## Notes
 - [Apache Kafka - Confluence](https://cwiki.apache.org/confluence/display/KAFKA/Index)
 
-# Youtube
+## Youtube
 
 - [Kafka Interview Questions](https://www.youtube.com/playlist?list=PL-y1MOZsKvhIhFdM4dF7hWEltXZixnMZD)
 - [Kafka's Internal](https://www.youtube.com/playlist?list=PLa7VYi0yPIH14oEOfwbcE9_gM5lOZ4ICN)
+
+## Tools
+- [Kafka Connect UI](https://github.com/lensesio/kafka-connect-ui) is a web tool for Kafka Connect for setting up
+  and managing connectors for multiple connect clusters.
+- [Kafka UI](https://github.com/provectus/kafka-ui) is a web UI for monitoring and management of Apache Kafka
+  clusters.
